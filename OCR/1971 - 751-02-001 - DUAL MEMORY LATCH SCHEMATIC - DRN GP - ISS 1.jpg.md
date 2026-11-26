@@ -34,7 +34,7 @@ Wiki page: [M751](../../../../PAGES/M751.md)
 - **Words (OCR):** 38 in 36 lines: LAkp · ORIveR · 249642 · Logic · INPETE · 73-64 · S2o · 97-io8 · NotEs · Types · 21.Z2 · 7475;
 - **Wiring (first pass):** 634 connected wire groups from 2,866 runs, 7 dotted junctions; labelled ends: 306 mm → LD; 115 mm → z6, z2 TR; 87 mm → z6; 85 mm → [2 22, z2 TR, z6; 80 mm → S2o
 
-Every curve, box, word and wire group: [1971 - 751-02-001 - DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1971%20-%20751-02-001%20-%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20(traced).json) (the CAD file: `1971 - 751-02-001 - DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 751-02-001 - DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1971%20-%20751-02-001%20-%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1971 - 751-02-001 - DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [M751](../../../../PAGES/M751.md)
 - **Words (OCR):** 53 in 46 lines: LATCH · LATch · ICATION · LAMe · LoGc READ · DEcoDER · LoGIc · SELECT · 05-96 · 49-00 · 23-26 · 03 - 24
 - **Wiring (first pass):** 411 connected wire groups from 2,907 runs; labelled ends: 649 mm → ENteR; 342 mm → 275, # Fz Ts, 9k0; 158 mm → SELECT; 128 mm → M75 -i; 116 mm → Ci
 
-Every curve, box, word and wire group: [1971 - 751-02-002 - 1 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1971%20-%20751-02-002%20-%201%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20(traced).json) (the CAD file: `1971 - 751-02-002 - 1 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 751-02-002 - 1 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1971%20-%20751-02-002%20-%201%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1971 - 751-02-002 - 1 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
 
 ## Full text
 

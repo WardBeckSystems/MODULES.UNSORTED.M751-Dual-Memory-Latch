@@ -36,7 +36,7 @@ Wiki page: [M751](../../../../PAGES/M751.md)
 - **Title block:** (712, 5)–(864, 71) mm: WBS WAAD-DECK SyStEMS · M7SI · DOAL MEMORY LATCH · SCALE · SCHEMATIC · 75102-006
 - **Wiring (first pass):** 756 connected wire groups from 3,762 runs, 1 dotted junctions; labelled ends: 169 mm → 212, Tsie; 161 mm → 212, Tsie; 133 mm → ENTER; 98 mm → AAzo; 84 mm → DATA, OuT
 
-Every curve, box, word and wire group: [1978 - 751-02-006 - 5 DUAL MEMORY LATCH SCHEMATIC - DRN DM - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20751-02-006%20-%205%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 751-02-006 - 5 DUAL MEMORY LATCH SCHEMATIC - DRN DM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 751-02-006 - 5 DUAL MEMORY LATCH SCHEMATIC - DRN DM - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20751-02-006%20-%205%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 751-02-006 - 5 DUAL MEMORY LATCH SCHEMATIC - DRN DM - ISS 1 (traced).dxf`).
 
 ## Full text
 

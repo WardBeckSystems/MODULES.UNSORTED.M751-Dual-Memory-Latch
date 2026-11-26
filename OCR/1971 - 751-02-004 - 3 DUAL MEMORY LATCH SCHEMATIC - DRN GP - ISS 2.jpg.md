@@ -35,7 +35,7 @@ Wiki page: [M751](../../../../PAGES/M751.md)
 - **Words (OCR):** 39 in 33 lines: LCCIC · INPETS · LoGic · WKEN · Does Not · 87-I F · 97248 · 18-24 · NOTES · 24,25 7475: · 93L01 · 27.28.2i0, 211 74186
 - **Wiring (first pass):** 416 connected wire groups from 2,334 runs, 7 dotted junctions; labelled ends: 209 mm → WD; 80 mm → Tse; 73 mm → M751-3; 48 mm → 2 T; 43 mm → Tse
 
-Every curve, box, word and wire group: [1971 - 751-02-004 - 3 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20751-02-004%20-%203%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 751-02-004 - 3 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 751-02-004 - 3 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20751-02-004%20-%203%20DUAL%20MEMORY%20LATCH%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 751-02-004 - 3 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 2 (traced).dxf`).
 
 ## Full text
 
